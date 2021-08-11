@@ -1,0 +1,33 @@
+@media(max-width:575px){
+    .menu a{
+        display: block;
+    } 
+    .container{
+        width: 100%;
+    }
+    .slogan{
+        padding: 50px 0px;
+    }
+    .about div{
+  display: block;
+        margin: 0 auto;
+    }
+    .left{
+    width: 90%;
+   
+}
+.right{
+    width: 90%;
+    }
+    .members{
+    width: 80%;
+    display:block;
+        margin: 0 auto;
+    }
+    ul{
+    display: block;
+    width: 80%;
+        margin: 0 auto;
+    }
+    
+}
