@@ -22,7 +22,7 @@ a:hover{
     background-color: lightskyblue;
 }
 .slogan{
-    background: url(images/polygons.png);
+    background: url(polygons.png);
     padding: 200px 0px;
     color: white;
 }
@@ -149,15 +149,15 @@ span{
     background-position: left center;
 }
 .adress{
-    background-image: url(images/address.png);
+    background-image: url(address.png);
 
 
 }
 .phone{
-    background-image: url(images/phone.png);
+    background-image: url(phone.png);
 }
 .email{
-    background-image: url(images/mail.png);
+    background-image: url(mail.png);
 }
 .kontakt input{
     display: block;
